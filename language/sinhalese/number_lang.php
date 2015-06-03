@@ -27,18 +27,17 @@
  * THE SOFTWARE.
  *
  * @package	CodeIgniter
- * @author	EllisLab Dev Team
+ * @author	Codeigniter community
  * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
  * @copyright	Copyright (c) 2014 - 2015, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://codeigniter.com
- * @since	Version 1.0.0
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['terabyte_abbr'] = 'TB';
-$lang['gigabyte_abbr'] = 'GB';
-$lang['megabyte_abbr'] = 'MB';
-$lang['kilobyte_abbr'] = 'KB';
-$lang['bytes'] = 'Bytes';
+$lang['terabyte_abbr'] = 'ටෙ.බ.';
+$lang['gigabyte_abbr'] = 'ගි.බ.';
+$lang['megabyte_abbr'] = 'මේ.බ.';
+$lang['kilobyte_abbr'] = 'කි.බ.';
+$lang['bytes'] = 'බයිට්';
