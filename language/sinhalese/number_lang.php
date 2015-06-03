@@ -38,6 +38,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['terabyte_abbr'] = 'ටෙ.බ.';
 $lang['gigabyte_abbr'] = 'ගි.බ.';
-$lang['megabyte_abbr'] = 'මේ.බ.';
+$lang['megabyte_abbr'] = 'මෙ.බ.';
 $lang['kilobyte_abbr'] = 'කි.බ.';
 $lang['bytes'] = 'බයිට්';
